@@ -6,4 +6,5 @@
  *
  */
 module GitIntegrationTestJavaProject {
+	/* Hello world */
 }
